@@ -1,0 +1,5 @@
+Explanation video :
+https://www.youtube.com/watch?v=L3OtLaCbJC8
+
+Data set: 
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDVDcHRra1NCNFFseVVSaEJYYWdzTU44SmloUXxBQ3Jtc0ttSnpqNmtPR3MxaXVjampMWmkxeUV5dU5IQWU2Y1dzUW9LR1VQaEdweEJHdVRmU291Y2U1cERhQ3dCU3JGaWsyTktXUFhnMVFzQXF2RDNhRTlNemRkOFBhV0tUUWtWZEFVbzRPMnJqdUFhYlFWYWExMA&q=https%3A%2F%2Fwww.kaggle.com%2Fnehalbirla%2Fvehicle-dataset-from-cardekho%3Fselect%3Dcar%2Bdata.csv
